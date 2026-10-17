@@ -20,7 +20,7 @@
   <a href="https://github.com/Pliestt/the-epic-call-2/releases"><img src="https://img.shields.io/badge/%D0%92%D1%81%D0%B5%20%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B8-596170?style=for-the-badge" alt="Все выпуски"></a>
 </p>
 
-<p align="center"><a href="#world">О сборке</a> · <a href="#epic-mods">Наши моды</a> · <a href="#install">Установка</a> · <a href="#faq">Вопросы</a></p>
+<p align="center"><a href="#user-content-world">О сборке</a> · <a href="#user-content-epic-mods">Наши моды</a> · <a href="#user-content-install">Установка</a> · <a href="#user-content-faq">Вопросы</a></p>
 
 <p align="center">
   <img src="https://cdn.modrinth.com/data/8oi3bsk5/images/8eb1319d93336ca3ac29578e029459c3c0ec5132.jpeg" alt="Река между светлыми скалами Terralith" width="100%"><br>
