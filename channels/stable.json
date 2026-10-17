@@ -3,7 +3,7 @@
     "schema_version": 1,
     "kind": "internet-channel",
     "pack_id": "the-epic-call-2",
-    "release_seq": 1792205841,
+    "release_seq": 1792174239,
     "pack": {
       "url": "https://github.com/Pliestt/the-epic-call-2/releases/download/pack-2.3.18/pack-release.json",
       "sha256": "a536599b7cf61e3a1c21cfa791f4a599cd684950784609fd9868d54084d3533d"
@@ -18,5 +18,5 @@
     }
   },
   "public_key": "c1ff1626333604f507dc6bdbee11c84a5f58de7e4314f514f920a4200fd05b58",
-  "signature": "6af056fa5ce1bd4a9e9af4795024e19133391648214f2282782efce7c7a5529c5fdd0df07dd3ded517210da84ce0a0f7a23724cf1493d42b56b18a7d2cf88e02"
+  "signature": "8cbafff5e24a0cc1948410ee3817f83598a3211eaebb569b093af5c366d9fdae6082cf53de375f65737e425ebef7f180ac346af64082d30c1f19170235121c00"
 }
