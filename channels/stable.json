@@ -3,20 +3,20 @@
     "schema_version": 1,
     "kind": "internet-channel",
     "pack_id": "the-epic-call-2",
-    "release_seq": 1792174239,
+    "release_seq": 1792235865,
     "pack": {
-      "url": "https://github.com/Pliestt/the-epic-call-2/releases/download/pack-2.3.18/pack-release.json",
-      "sha256": "a536599b7cf61e3a1c21cfa791f4a599cd684950784609fd9868d54084d3533d"
+      "url": "https://github.com/Pliestt/the-epic-call-2/releases/download/pack-2.3.19/pack-release.json",
+      "sha256": "f3dc814f1853bb958075968ca88065b946c8a31a7287c031b716fde786f34ec7"
     },
     "platform": {
-      "url": "https://github.com/Pliestt/the-epic-call-2/releases/download/pack-2.3.18/platform-release.json",
-      "sha256": "36940c00961fdb3108e00574fe9658b4c29d41b74656c30031faa53d33f2d7a9"
+      "url": "https://github.com/Pliestt/the-epic-call-2/releases/download/pack-2.3.19/platform-release.json",
+      "sha256": "0226f8969466d7d9fb0f26fabb88fb4e9e6d44f0f7b84f8ccc52f88165f53d51"
     },
     "helper": {
-      "url": "https://github.com/Pliestt/the-epic-call-2/releases/download/helper-1.13.0/helper-release.json",
-      "sha256": "33eb4cb58e567da418b42905477baa41c837ebd89f1f297d039e3bf9d8ad1058"
+      "url": "https://github.com/Pliestt/the-epic-call-2/releases/download/pack-2.3.19/helper-release.json",
+      "sha256": "9a4f81f0d8e6ffd8cada12759d67901165455d948e86de892f388fc2e5975aa0"
     }
   },
   "public_key": "c1ff1626333604f507dc6bdbee11c84a5f58de7e4314f514f920a4200fd05b58",
-  "signature": "8cbafff5e24a0cc1948410ee3817f83598a3211eaebb569b093af5c366d9fdae6082cf53de375f65737e425ebef7f180ac346af64082d30c1f19170235121c00"
+  "signature": "6c3e38192c9b592f5e84601b42c499ae26435b3209428a38503ffb87fcc9b4ec5daf410109a11991886b3e3ada4160ed1015f860572c2ec2ffe29df73648fd0e"
 }
