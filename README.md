@@ -2,7 +2,7 @@
   <img src="assets/logo.png" alt="The Epic Call" width="560">
 </p>
 
-<h1 align="center">The Epic Call 2.3.20</h1>
+<h1 align="center">The Epic Call 2.4.0</h1>
 
 <p align="center"><strong>Мастерские. Дальние дороги. Собственная магия.</strong><br>
 Мир, в котором хочется построить дом — и всегда есть причина отправиться дальше.</p>
@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Minecraft-1.21.1-5D8654?style=flat-square" alt="Minecraft 1.21.1">
   <img src="https://img.shields.io/badge/NeoForge-21.1.256-D38B42?style=flat-square" alt="NeoForge 21.1.256">
-  <img src="https://img.shields.io/badge/Модов-109-548C9A?style=flat-square" alt="109 модов">
+  <img src="https://img.shields.io/badge/Модов-126-548C9A?style=flat-square" alt="126 модов">
   <img src="https://img.shields.io/badge/Windows-10%20%2F%2011%20x64-697486?style=flat-square" alt="Windows 10 и 11 x64">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-7D9A72?style=flat-square" alt="Лицензия документации: MIT"></a>
 </p>
@@ -21,7 +21,7 @@
   <a href="https://github.com/Pliestt/the-epic-call-2/releases"><img src="https://img.shields.io/badge/%D0%92%D1%81%D0%B5%20%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B8-596170?style=for-the-badge" alt="Все выпуски"></a>
 </p>
 
-<p align="center"><a href="#user-content-world">О сборке</a> · <a href="#user-content-epic-mods">Наши моды</a> · <a href="#user-content-install">Установка</a> · <a href="https://github.com/Pliestt/the-epic-call-2/releases/tag/pack-2.3.20">Что нового</a> · <a href="#user-content-faq">Вопросы</a></p>
+<p align="center"><a href="#user-content-world">О сборке</a> · <a href="#user-content-epic-mods">Наши моды</a> · <a href="#user-content-install">Установка</a> · <a href="https://github.com/Pliestt/the-epic-call-2/releases/tag/pack-2.4.0">Что нового</a> · <a href="#user-content-faq">Вопросы</a></p>
 
 <p align="center">
   <img src="https://cdn.modrinth.com/data/8oi3bsk5/images/8eb1319d93336ca3ac29578e029459c3c0ec5132.jpeg" alt="Река между светлыми скалами Terralith" width="100%"><br>
@@ -38,8 +38,8 @@
 
 <table>
 <tr>
-<td width="33%" valign="top"><strong>Исследовать</strong><br><br>Рельеф Terralith, сооружения YUNG’s, Dungeons and Taverns, холодные воды Aquamirae и глубины Deeper and Darker.</td>
-<td width="33%" valign="top"><strong>Создавать</strong><br><br>Мастерские Create, движение предметов, фермы, поезда и эксперименты с подвижными конструкциями.</td>
+<td width="33%" valign="top"><strong>Исследовать</strong><br><br>Рельеф Terralith, сооружения YUNG’s, Dungeons and Taverns, холодные воды Aquamirae, глубины Deeper and Darker и небесный The Aether.</td>
+<td width="33%" valign="top"><strong>Создавать</strong><br><br>Мастерские Create, фермы, поезда, торговые площадки, варка зелий миксером и опасные ядерные реакторы.</td>
 <td width="33%" valign="top"><strong>Обживать</strong><br><br>Кухня Farmer’s Delight, детали Supplementaries, фотографии Exposure и собственная библиотека находок.</td>
 </tr>
 </table>
@@ -118,7 +118,7 @@ Rank считает только поддержанные проверяемые
 
 **Заранее создавать и запускать обычную 1.21.1 не нужно.** Python и подключение к локальной сети автора тоже не требуются. Во время первой подготовки NeoForge оставьте окно открытым.
 
-<sub>Windows 10/11 x64 · Setup 1.2.1 / .NET Framework 4.8 · Helper 1.13.1. Setup сам установку сборки не запускает: её начинаете вы в Helper.</sub>
+<sub>Windows 10/11 x64 · Setup 1.2.2 / .NET Framework 4.8 · Helper 1.14.0. Setup сам установку сборки не запускает: её начинаете вы в Helper.</sub>
 
 <a id="faq"></a>
 
@@ -129,14 +129,14 @@ Rank считает только поддержанные проверяемые
 
 Переустанавливать её не нужно. Закройте Helper, [скачайте актуальный EXE](https://github.com/Pliestt/the-epic-call-2/releases/latest/download/The.Epic.Helper.exe) и замените `The Epic Helper.exe` в папке установленной версии. Откройте «Обновления», выберите **«Интернет»** и проверьте выпуск. Если интернет-источник уже доступен, обновить приложение можно на вкладке «Обновить Helper».
 
-При смене источника игровой состав должен совпадать. Если установленная LAN-версия старее публичной 2.3.20, сначала получите 2.3.20 через прежнюю LAN-раздачу, затем переключитесь на интернет. Замена Helper не отменяет эту проверку. Не удаляйте `.epic/installation.json` для обхода защиты.
+При смене источника игровой состав должен совпадать. Если установленная LAN-версия старее публичной 2.4.0, сначала получите 2.4.0 через прежнюю LAN-раздачу, затем переключитесь на интернет. Замена Helper не отменяет эту проверку. Не удаляйте `.epic/installation.json` для обхода защиты.
 
 </details>
 
 <details>
 <summary><strong>Нужен свой лаунчер? А что с аккаунтом?</strong></summary>
 
-Да, используйте свой установленный лаунчер. Helper создаёт стандартную папку версии для официального Minecraft Launcher и TLauncher; авторизация остаётся в лаунчере. Prism использует отдельные экземпляры; проверенного маршрута получения полного состава, выбора root и запуска через Helper пока нет. Не копируйте Helper в папку экземпляра: это не выбирает её для управления. Полного переносимого архива 109 модов в Releases нет; авторский bundle содержит только десять наших JAR и ресурсы интернет-установки.
+Да, используйте свой установленный лаунчер. Helper создаёт стандартную папку версии для официального Minecraft Launcher и TLauncher; авторизация остаётся в лаунчере. Prism использует отдельные экземпляры; проверенного маршрута получения полного состава, выбора root и запуска через Helper пока нет. Не копируйте Helper в папку экземпляра: это не выбирает её для управления. Полного переносимого архива 126 модов в Releases нет; авторский bundle содержит только десять наших JAR и ресурсы интернет-установки.
 
 </details>
 
@@ -160,7 +160,7 @@ Rank считает только поддержанные проверяемые
 
 На странице использованы материалы книги «О сборке»: наш логотип, демонстрационные интерфейсы и изображения из официальных галерей установленных модов. Авторские иллюстрации показывают возможности соответствующих модов; конкретные постройки и пейзажи в вашей игре зависят от мира и ваших решений.
 
-**Спасибо авторам всех 109 модов, шейдеров и библиотек сборки.** Источники изображений, авторство и сведения о лицензиях собраны в **[CREDITS.md](CREDITS.md)**. Сторонние файлы Helper получает из официальных источников; Euphoria создаётся патчером у игрока.
+**Спасибо авторам всех 126 модов, шейдеров и библиотек сборки.** Источники изображений, авторство и сведения о лицензиях собраны в **[CREDITS.md](CREDITS.md)**. Сторонние файлы Helper получает из официальных источников; Euphoria создаётся патчером у игрока.
 
 ### Лицензия
 
