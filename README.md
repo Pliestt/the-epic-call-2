@@ -2,7 +2,16 @@
   <img src="assets/logo.png" alt="The Epic Call" width="560">
 </p>
 
-<h1 align="center">The Epic Call 2.4.0</h1>
+<h1 align="center">The Epic Call 2.5.0</h1>
+
+**The Epic Call 2.5.0 опубликована по прямой ссылке; stable пока остаётся на 2.4.0.** Публичные загрузки и тестовый маршрут проверены. Обычный Helper начнёт предлагать 2.5.0 после отдельного принятия её оставшихся ограничений и переключения канала. Новый Setup сам канал не переключает и установку сборки автоматически не запускает.
+
+[Выпуск 2.5.0 и ограничения](https://github.com/Pliestt/the-epic-call-2/releases/tag/pack-2.5.0) · [Setup 1.2.3](https://github.com/Pliestt/the-epic-call-2/releases/download/pack-2.5.0/The.Epic.Setup.exe) · [Helper 1.14.1](https://github.com/Pliestt/the-epic-call-2/releases/download/pack-2.5.0/The.Epic.Helper.exe)
+
+В 2.5.0: животные Naturalist, броня Fantasy Armor и аксессуары Accents, готовые меню FancyMenu/загрузка Drippy, русская локализация и исправления EMF/Veil/IPN/холодного preview. Прежние экипировка, личные настройки, Rank/Rid/Milestones и единое окно аксессуаров сохраняются.
+
+Два клиента/другой ПК/dedicated и редкие игровые условия ещё не проверены. Watchdog Streams при дальней генерации наблюдался; подтверждённого deadlock нет. Это ограничения именно 2.5.0, не перенесённая отсрочка 2.4.0.
+
 
 <p align="center"><strong>Мастерские. Дальние дороги. Собственная магия.</strong><br>
 Мир, в котором хочется построить дом — и всегда есть причина отправиться дальше.</p>
@@ -10,18 +19,18 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Minecraft-1.21.1-5D8654?style=flat-square" alt="Minecraft 1.21.1">
   <img src="https://img.shields.io/badge/NeoForge-21.1.256-D38B42?style=flat-square" alt="NeoForge 21.1.256">
-  <img src="https://img.shields.io/badge/Модов-126-548C9A?style=flat-square" alt="126 модов">
+  <img src="https://img.shields.io/badge/Модов-133-548C9A?style=flat-square" alt="133 модов">
   <img src="https://img.shields.io/badge/Windows-10%20%2F%2011%20x64-697486?style=flat-square" alt="Windows 10 и 11 x64">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-7D9A72?style=flat-square" alt="Лицензия документации: MIT"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Pliestt/the-epic-call-2/releases/latest/download/The.Epic.Setup.exe"><img src="https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%89%D0%B8%D0%BA-397D63?style=for-the-badge" alt="Скачать установщик"></a>
-  <a href="https://github.com/Pliestt/the-epic-call-2/releases/latest/download/The.Epic.Helper.exe"><img src="https://img.shields.io/badge/%D0%9E%D0%B1%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C%20Helper-386779?style=for-the-badge" alt="Скачать актуальный Helper"></a>
+  <a href="https://github.com/Pliestt/the-epic-call-2/releases/download/pack-2.5.0/The.Epic.Setup.exe"><img src="https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%89%D0%B8%D0%BA-397D63?style=for-the-badge" alt="Скачать установщик"></a>
+  <a href="https://github.com/Pliestt/the-epic-call-2/releases/download/pack-2.5.0/The.Epic.Helper.exe"><img src="https://img.shields.io/badge/%D0%9E%D0%B1%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C%20Helper-386779?style=for-the-badge" alt="Скачать актуальный Helper"></a>
   <a href="https://github.com/Pliestt/the-epic-call-2/releases"><img src="https://img.shields.io/badge/%D0%92%D1%81%D0%B5%20%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B8-596170?style=for-the-badge" alt="Все выпуски"></a>
 </p>
 
-<p align="center"><a href="#user-content-world">О сборке</a> · <a href="#user-content-epic-mods">Наши моды</a> · <a href="#user-content-install">Установка</a> · <a href="https://github.com/Pliestt/the-epic-call-2/releases/tag/pack-2.4.0">Что нового</a> · <a href="#user-content-faq">Вопросы</a></p>
+<p align="center"><a href="#user-content-world">О сборке</a> · <a href="#user-content-epic-mods">Наши моды</a> · <a href="#user-content-install">Установка</a> · <a href="https://github.com/Pliestt/the-epic-call-2/releases/tag/pack-2.5.0">Что нового</a> · <a href="#user-content-faq">Вопросы</a></p>
 
 <p align="center">
   <img src="https://cdn.modrinth.com/data/8oi3bsk5/images/8eb1319d93336ca3ac29578e029459c3c0ec5132.jpeg" alt="Река между светлыми скалами Terralith" width="100%"><br>
@@ -110,24 +119,28 @@ Rank считает только поддержанные проверяемые
 
 ## Начать играть — три шага
 
+Пока stable не переключён, этот обычный маршрут устанавливает 2.4.0. После объявления переключения те же действия установят 2.5.0; переустанавливать лаунчер или заранее запускать ванильную 1.21.1 не нужно.
+
 | Шаг | Что сделать |
 | :--- | :--- |
-| **01 · Подготовить** | Скачайте **[The Epic Setup](https://github.com/Pliestt/the-epic-call-2/releases/latest/download/The.Epic.Setup.exe)**, запустите его и выберите папку **`.minecraft`** своего лаунчера. Setup разместит Helper и откроет его. |
+| **01 · Подготовить** | Скачайте **[The Epic Setup](https://github.com/Pliestt/the-epic-call-2/releases/download/pack-2.5.0/The.Epic.Setup.exe)**, запустите его и выберите папку **`.minecraft`** своего лаунчера. Setup разместит Helper и откроет его. |
 | **02 · Установить** | В Helper выберите **«Интернет»**, укажите свой лаунчер, проверьте источник и нажмите **«Установить сборку»**. Дождитесь завершения. |
 | **03 · Отправиться в мир** | Откройте лаунчер и запустите созданную версию **`1.21.1 The Epic Call 2`**. При первом запуске лаунчер скачает Minecraft, Java и базовые ресурсы; затем автоматически подготовится NeoForge и откроется игра. |
 
 **Заранее создавать и запускать обычную 1.21.1 не нужно.** Python и подключение к локальной сети автора тоже не требуются. Во время первой подготовки NeoForge оставьте окно открытым.
 
-<sub>Windows 10/11 x64 · Setup 1.2.2 / .NET Framework 4.8 · Helper 1.14.0. Setup сам установку сборки не запускает: её начинаете вы в Helper.</sub>
+<sub>Windows 10/11 x64 · Setup 1.2.3 / .NET Framework 4.8 · Helper 1.14.1. Setup сам установку сборки не запускает: её начинаете вы в Helper.</sub>
 
 <a id="faq"></a>
 
 ## Перед первым вечером
 
+Для друзей с 2.4.0 **после объявления переключения stable**: закрыть игру → Helper → «Обновления» → «Интернет» → сначала Helper 1.14.1, затем сборка 2.5.0. Сохранение личных конфигов не мешает доставке готовой темы. Перед открытием своего мира сохраните полную резервную копию; `.epic` не удаляйте.
+
 <details>
 <summary><strong>Сборка уже установлена через локальную сеть. Что делать?</strong></summary>
 
-Переустанавливать её не нужно. Закройте Helper, [скачайте актуальный EXE](https://github.com/Pliestt/the-epic-call-2/releases/latest/download/The.Epic.Helper.exe) и замените `The Epic Helper.exe` в папке установленной версии. Откройте «Обновления», выберите **«Интернет»** и проверьте выпуск. Если интернет-источник уже доступен, обновить приложение можно на вкладке «Обновить Helper».
+Переустанавливать её не нужно. Закройте Helper, [скачайте актуальный EXE](https://github.com/Pliestt/the-epic-call-2/releases/download/pack-2.5.0/The.Epic.Helper.exe) и замените `The Epic Helper.exe` в папке установленной версии. Откройте «Обновления», выберите **«Интернет»** и проверьте выпуск. Если интернет-источник уже доступен, обновить приложение можно на вкладке «Обновить Helper».
 
 При смене источника игровой состав должен совпадать. Если установленная LAN-версия старее публичной 2.4.0, сначала получите 2.4.0 через прежнюю LAN-раздачу, затем переключитесь на интернет. Замена Helper не отменяет эту проверку. Не удаляйте `.epic/installation.json` для обхода защиты.
 
@@ -136,7 +149,7 @@ Rank считает только поддержанные проверяемые
 <details>
 <summary><strong>Нужен свой лаунчер? А что с аккаунтом?</strong></summary>
 
-Да, используйте свой установленный лаунчер. Helper создаёт стандартную папку версии для официального Minecraft Launcher и TLauncher; авторизация остаётся в лаунчере. Prism использует отдельные экземпляры; проверенного маршрута получения полного состава, выбора root и запуска через Helper пока нет. Не копируйте Helper в папку экземпляра: это не выбирает её для управления. Полного переносимого архива 126 модов в Releases нет; авторский bundle содержит только десять наших JAR и ресурсы интернет-установки.
+Да, используйте свой установленный лаунчер. Helper создаёт стандартную папку версии для официального Minecraft Launcher и TLauncher; авторизация остаётся в лаунчере. Prism использует отдельные экземпляры; проверенного маршрута получения полного состава, выбора root и запуска через Helper пока нет. Не копируйте Helper в папку экземпляра: это не выбирает её для управления. Полного переносимого архива 133 модов в Releases нет; авторский bundle содержит только десять наших JAR и ресурсы интернет-установки.
 
 </details>
 
@@ -160,7 +173,7 @@ Rank считает только поддержанные проверяемые
 
 На странице использованы материалы книги «О сборке»: наш логотип, демонстрационные интерфейсы и изображения из официальных галерей установленных модов. Авторские иллюстрации показывают возможности соответствующих модов; конкретные постройки и пейзажи в вашей игре зависят от мира и ваших решений.
 
-**Спасибо авторам всех 126 модов, шейдеров и библиотек сборки.** Источники изображений, авторство и сведения о лицензиях собраны в **[CREDITS.md](CREDITS.md)**. Сторонние файлы Helper получает из официальных источников; Euphoria создаётся патчером у игрока.
+**Спасибо авторам всех 133 модов, шейдеров и библиотек сборки.** Источники изображений, авторство и сведения о лицензиях собраны в **[CREDITS.md](CREDITS.md)**. Сторонние файлы Helper получает из официальных источников; Euphoria создаётся патчером у игрока.
 
 ### Лицензия
 
