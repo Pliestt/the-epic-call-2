@@ -2,7 +2,33 @@
 
 Что меняется в The Epic Call и приложениях для установки сборки. Здесь собраны выпуски, опубликованные на GitHub; более ранние этапы разработки в этот список не включены.
 
-[Скачать актуальный установщик](https://github.com/Pliestt/the-epic-call-2/releases/latest/download/The.Epic.Setup.exe) · [О сборке](README.md) · [Все выпуски](https://github.com/Pliestt/the-epic-call-2/releases)
+[Скачать актуальный установщик](https://github.com/Pliestt/the-epic-call-2/releases/download/pack-2.5.0/The.Epic.Setup.exe) · [О сборке](README.md) · [Все выпуски](https://github.com/Pliestt/the-epic-call-2/releases)
+
+## The Epic Call 2.5.0 — животные, снаряжение и оформление
+
+25 октября 2026 · [Открыть выпуск](https://github.com/Pliestt/the-epic-call-2/releases/tag/pack-2.5.0)
+
+- Животные Naturalist с родным спавном и поведением.
+- Броня Fantasy Armor и аксессуары Accents с рецептами в JEI и получением в выживании.
+- Готовое оформление FancyMenu/Drippy, сохранённые меню Aether/ваниль и дополненная русская локализация.
+- Исправлены подтверждённые проблемы EMF/Veil, раннего IPN и холодного автоматического Cumulus/RRLS preview.
+- Helper 1.14.1 и Setup 1.2.3 со встроенным актуальным Helper; автоматической установки сборки при запуске Setup нет.
+
+133 JAR / Graphics 0.2.8. Единые аксессуары, настройки, экипировка, Rank/Rid/Milestones и прежние игровые интеграции сохранены. Сторонний состав без лишних обновлений; новых ступеней магии и cooldown Rid нет.
+
+Выпуск доступен по прямой ссылке; **stable остаётся на 2.4.0 до отдельного решения автора**. Публичные HTTPS и тестовый маршрут проверены; два настоящих клиента, другой ПК, dedicated, редкие условия и длительная генерация Streams остаются открытыми. Подтверждённого deadlock Streams нет.
+
+## The Epic Call 2.4.0 — новые миры и единые аксессуары
+
+23 октября 2026 · [Открыть выпуск](https://github.com/Pliestt/the-epic-call-2/releases/tag/pack-2.4.0)
+
+The Aether и выбранные дополнения, единое окно Accessories/Curios, локальная совместимость Fragmentum/Elixirum, миксер Create, исправления добычи и автофишинга. 126 JAR / Helper 1.14.0 / Setup 1.2.2. Это текущий stable до отдельного переключения на 2.5.0.
+
+## The Epic Call 2.3.20 — рейтинг мира
+
+19 октября 2026 · [Открыть выпуск](https://github.com/Pliestt/the-epic-call-2/releases/tag/pack-2.3.20)
+
+Rank и доработки Milestones; 109 JAR / Helper 1.13.1 / Setup 1.2.1.
 
 ## The Epic Call 2.3.19 — мелкие исправления
 
